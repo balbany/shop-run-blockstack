@@ -45,7 +45,7 @@ class IndexPage extends React.Component {
                 </a>
               </li>
               <li>
-                or
+                or{' '}
                 <a href="https://docs.blockstack.org">
                   read more about blockstack
                 </a>
